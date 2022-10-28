@@ -1,0 +1,35 @@
+#start-btn
+{
+    width: 40%;
+} 
+#fotos
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(55, 2, 65);
+    border-width: 5px;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body {
+background: url("shinobu.jpg");
+color: rgb(74, 4, 109);
+}
+center {
+    background: rgba(245, 226, 255, 0.442);
+}
+button {
+    background-color: darkorchid;
+    color:aliceblue;
+    border: none;
+}
+img {
+    border-radius: 70px;
+}
